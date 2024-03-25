@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quinncahill
-- 👀 I’m interested in software development and cybersecurity
-- 🌱 I’m currently learning functional programming at Northeastern University
+- 👀 I’m interested in software development and algorithms
+- 🌱 I’m currently learning object-oriented programming at Northeastern University
 - 💞️ I’m looking to collaborate to gain experience
 - 📫 How to reach me -> cahillquinn23@gmail.com
 
