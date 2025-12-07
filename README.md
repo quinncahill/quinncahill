@@ -1,8 +1,7 @@
 - Hi, I’m @quinncahill
-- I’m interested in software development, algorithms, and data analysis
-- I’m currently studying at Northeastern University
+- I’m interested in software development, algorithms, data analysis & finance
+- I’m currently studying CS, Economics, & Math @ Northeastern University
 - I’m always open to collaborate, feel free to reach out
-- How to reach me -> cahillquinn23@gmail.com
 
 <!---
 quinncahill/quinncahill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
