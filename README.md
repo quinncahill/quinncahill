@@ -1,5 +1,5 @@
 - Hi, I’m @quinncahill
-- I’m interested in software development, algorithms, data analysis & finance
+- I’m interested in data analysis, algorithms, software development, and quantitative financial strategies
 - I’m currently studying CS, Economics, & Math @ Northeastern University
 - I’m always open to collaborate, feel free to reach out
 
